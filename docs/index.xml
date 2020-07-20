@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ascetus on Λscetus</title>
+    <link>https://ascetus.com/</link>
+    <description>Recent content in Ascetus on Λscetus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Jul 2020 14:30:24 -0400</lastBuildDate>
+    
+	<atom:link href="https://ascetus.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Americanism</title>
+      <link>https://ascetus.com/americanism/</link>
+      <pubDate>Wed, 15 Jul 2020 15:10:02 -0400</pubDate>
+      
+      <guid>https://ascetus.com/americanism/</guid>
+      <description>Americanism is the well-documented phenomenon of universalizing the particular.
+Americanism is the failure to recognize that American habits, preferences and values belong uniquely to the North American context.
+Americanism is the confiscation of all historic traditions and their substitution by 18th French Revolution ones.
+Americanism is a way of thinking that removes the dissimilitudes between cultures, religions and civilisations.
+Americanism asserts a universal man with universal values in pursuit of happiness, under god, indivisible, with liberty and justice for all.</description>
+    </item>
+    
+    <item>
+      <title>The Law as a Fetish</title>
+      <link>https://ascetus.com/the-law-as-a-fetish/</link>
+      <pubDate>Tue, 14 Jul 2020 17:09:23 -0400</pubDate>
+      
+      <guid>https://ascetus.com/the-law-as-a-fetish/</guid>
+      <description>What is the basis for American Law? How does the Law interact with ideology to regulate the belief systems which govern daily interactions in America—the social fabric of the people? It is taken for granted that the “law is the law,” and is therefore to be obeyed (Zizek, The Sublime Object of Ideology, pg. 33). I examine the basis of American Law through fetishism, the expansion of the law as an obsession to cover its impotency, and the thorny question of Constitutional Authority.</description>
+    </item>
+    
+  </channel>
+</rss>
