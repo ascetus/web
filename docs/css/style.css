@@ -518,35 +518,35 @@ footer {
     padding-top: 3rem;
   }
   #hero {
-    min-height: 200px;
+    min-height: 250px;
     overflow: hidden;
-    background-color: #f0f0f0;
+    background-color: #333;
   }
     #hero img {
       display: none; 
     }
     #hero__box {
-      color: #333;
       display: block;
       width: 100%;
-      padding: 1rem;
+      padding: 2rem 1rem;
     }
     #hero__box h1 {
       font-size: 2rem;
     }
     #hero__box h2 {
-      font-size: 1rem; 
+      font-size: 1.1rem; 
     }
       #hero__box__button {
-        margin-top: 0.5rem;
+        margin-top: 1.5rem;
       }
         #hero__box__button a {
-          color: #333;
-          border: 1px solid #333;
           display: block;
           width: 100%;
           text-align: center;
         }
+  .box__text {
+    margin-bottom: 1.5rem;
+  }
   .label {
     padding: 0 1rem;
     margin-top: 1rem;
