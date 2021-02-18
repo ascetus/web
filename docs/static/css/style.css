@@ -56,6 +56,9 @@ body {
 .nav__links a {
     display: block;
     padding: 0 .75rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     text-decoration: none;
     color: #666;
     text-transform: uppercase;
@@ -64,6 +67,16 @@ body {
 .nav__links a:hover, .nav__links .active {
     color: #c53131;
 }
+
+.nav__links a svg {
+  fill: #555;
+  height: 1.4rem;
+  width: 1.4rem;
+  padding-bottom: 0.1rem;
+}
+  .nav__links a:hover svg {
+    fill: #0088cc !important;
+  }
 
 #hero {
     position: relative;
@@ -273,7 +286,7 @@ body {
 
 .cta__text a,
 .post__text a {
-  color: #558eda;
+  color: #0088cc;
   text-decoration: none;
 }
   .cta__text a:hover,
@@ -670,20 +683,23 @@ footer {
     }
 
     .posts {
-        margin: 1rem 0.5rem;
+        margin: 0 0.5rem;
     }
+      .posts__post:first-child {
+        margin-top: 0;
+      }
+      .posts__post {
+        margin-top: 0.5rem;
+      }
 
     .thumb {
-        padding: 0.5rem;
+        padding: 0;
+        margin: 0 -0.5rem;
     }
 
     .thumb__sum {
-        padding: 0.5rem;
+        padding: 1rem;
         margin-bottom: 0;
-    }
-
-    .thumb__img {
-      margin: -2rem;
     }
 
     .thumb__text {
@@ -691,7 +707,8 @@ footer {
     }
 
     .thumb__button {
-        padding: 0;
+        padding: 1rem;
+        padding-top: 0;
     }
 
     .thumb__button a {
