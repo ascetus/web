@@ -685,12 +685,6 @@ footer {
     .posts {
         margin: 0 0.5rem;
     }
-      .posts__post:first-child {
-        margin-top: 0;
-      }
-      .posts__post {
-        margin-top: 0.5rem;
-      }
 
     .thumb {
         padding: 0;
