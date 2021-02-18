@@ -147,7 +147,6 @@ body {
 .writer {
     padding: 2rem;
     display: flex;
-    padding-bottom: 0;
     justify-content: center;
     align-items: center;
 }
@@ -681,6 +680,10 @@ footer {
     .thumb__sum {
         padding: 0.5rem;
         margin-bottom: 0;
+    }
+
+    .thumb__img {
+      margin: -2rem;
     }
 
     .thumb__text {
